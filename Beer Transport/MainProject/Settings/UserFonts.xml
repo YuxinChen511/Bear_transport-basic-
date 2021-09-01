@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<UserFonts>
+	<UserFont Name="Main Font" FaceName="Arial" PointSize="80" UUID="00000000-0000-0000-0000-000000000001" />
+	<UserFont Name="Title" FaceName="Bodoni MT" PointSize="200" Bold="true" UUID="B913A0D9-442C-4D1E-ABE6-CFD458DB52DA" InternalID="1" />
+	<UserFont Name="Header" FaceName="Bell MT" PointSize="140" Bold="true" UUID="60EB42A3-C25D-4D44-B262-6FD48C4453B9" InternalID="2" />
+</UserFonts>
