@@ -1,0 +1,6 @@
+Domain violation at line 15, column 17.
+The scope of index "p" has not been specified.
+Warning at line 1 in user-defined function section "MainExecution".
+After six iterations CPLEX 12.6.3 concluded that LeastCostTransportPlan is infeasible.
+Warning at line 1 in user-defined function section "MainExecution".
+After six iterations CPLEX 12.6.3 concluded that LeastCostTransportPlan is infeasible.
